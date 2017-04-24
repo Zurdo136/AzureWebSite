@@ -1,10 +1,12 @@
 <HTML>
 <HEADER>
-    <TITLE>Title for my seb site</TITLE>
+    <TITLE>My First Azure web site</TITLE>
 </HEADER>
 
 <BODY>
-This is some content
+This content is in the body of my new web site.
+
+Azure is cute...
 </BODY>
 
 </HTML>
