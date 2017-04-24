@@ -4,7 +4,7 @@
 </HEADER>
 
 <BODY>
-THis is some content
+This is some content
 </BODY>
 
 </HTML>
